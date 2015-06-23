@@ -1,4 +1,4 @@
-package r2d2.sample.dashboard;
+package r2d2.sample.dashboard.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;

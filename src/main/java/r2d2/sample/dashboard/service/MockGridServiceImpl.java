@@ -1,7 +1,9 @@
-package r2d2.sample.dashboard;
+package r2d2.sample.dashboard.service;
 
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
+import r2d2.sample.dashboard.model.Grid;
+import r2d2.sample.dashboard.model.GridContent;
 
 import java.util.ArrayList;
 import java.util.List;
