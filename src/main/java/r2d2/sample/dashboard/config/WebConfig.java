@@ -31,7 +31,6 @@ public class WebConfig extends WebMvcConfigurerAdapter {
         viewResolver.setViewClass(DustjsView.class);
 
         registry.viewResolver(viewResolver);
-        super.configureViewResolvers(registry);
     }
 
 }
